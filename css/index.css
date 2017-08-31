@@ -1,0 +1,247 @@
+.index-banner {
+    position: relative;
+    height: auto;
+    margin-bottom: 0;
+}
+
+
+.index-banner-bg {
+    height: auto;
+    overflow: hidden;
+}
+
+.index-banner-bg img {
+    margin: 0 auto;
+}
+
+.index-banner-text {
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    margin-left: -420px;
+}
+
+.index-banner-text .banner-text-logo {
+    height: 91px;
+    width: 894px;
+    text-align: center;
+    background: url("../image/banner-logo.png") no-repeat;
+}
+
+.index-banner-text .text-info {
+    margin-top: 17px;
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+/*菜单项*/
+
+.index-menu {
+    position: relative;
+    border-top: 4px solid #f34949;
+}
+
+.index-menu .index-menu-tips {
+    height: 75px;
+    width: 155px;
+    margin-left: 474px;
+    background: url("../image/menu-tips.png") no-repeat;
+}
+
+.index-menu .index-menu-list {
+    margin-top: 80px;
+    color: #555;
+    overflow: hidden;
+
+}
+
+.index-menu .index-menu-list ul {
+    width: 1160px;
+}
+
+.index-menu .index-menu-list .menu-list-item {
+    width: 520px;
+    float: left;
+    margin-right: 60px;
+    margin-bottom: 56px;
+}
+
+.index-menu .index-menu-list .menu-list-item .item-title {
+    float: left;
+    width: 230px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.index-menu .index-menu-list .menu-list-item .item-title a{
+    color: #555555;
+}
+.index-menu .index-menu-list .menu-list-item .item-title .comment{
+    margin-top: 4px;
+    color: #b7b7b7;
+    font-size: 12px;
+}
+
+.index-menu .index-menu-list .menu-list-item .item-line {
+    margin-top: 9px;
+    float: left;
+    width: 192px;
+    border-top: 1px solid #e3e1e1;
+
+}
+.index-menu .index-menu-list .menu-list-item .item-price {
+    float: right;
+}
+
+.index-menu .menu-more-btn {
+    height: 34px;
+    width: 134px;
+    margin-top: 90px;
+    margin-bottom: 0px;
+    margin-left: 428px;
+    padding-top: 11px;
+    text-align: center;
+    color: #000;
+    border: 1px solid #3b3b3b;
+}
+
+.index-panel {
+    height: 362px;
+    padding-top: 200px;
+}
+
+.index-panel .panel-header h3 {
+    float: left;
+    font-size: 20px;
+    color: #3b3b3b;
+    font-weight: normal;
+}
+
+.index-panel .panel-header .panel-line {
+    float: left;
+    border-top: 1px solid #e5e3e3;
+    margin-top: 7px;
+    margin-left: 48px;
+    width: 200px;
+}
+
+.index-panel .panel-header .btn-group{
+    font-size: 0px;
+    float: right;
+}
+
+.index-panel .panel-header .btn {
+    display: inline-block;
+    margin-left: 11px;
+    width: 9px;
+    height: 9px;
+    background: #dedede;
+    border-radius: 50%;
+}
+
+.index-panel .panel-header .active {
+    background: #9b9b9b;
+}
+
+.index-panel .panel-item {
+    margin-top: 75px;
+    overflow: hidden;
+}
+
+.index-panel .panel-item ul {
+    width: 1160px;
+
+}
+
+.index-panel .panel-item .food-item{
+    float: left;
+    width: 230px;
+    margin-right: 60px;
+}
+
+.index-panel .panel-item .food-item .banner{
+    margin-bottom: 30px;
+    height: 202px;
+}
+
+.index-panel .panel-item .food-item .name{
+    color: #555;
+    margin-bottom: 10px;
+
+}
+
+.index-panel .panel-item .food-item .name span {
+    float: right;
+}
+
+
+.index-panel .panel-item .food-item .star-bar{
+    font-size: 0;
+}
+
+.index-panel .panel-item .food-item .star{
+    display: inline-block;
+    width: 12px;
+    height: 13px;
+    background: url("../image/star.png");
+}
+
+.index-panel .panel-item .food-item .nostar{
+    display: inline-block;
+    width: 12px;
+    height: 13px;
+    background: url("../image/nostar.png");
+}
+
+.index-panel2 {
+    height: 528px;
+    padding-top: 100px;
+}
+
+.index-panel2 .panel-header h3 {
+    float: left;
+    font-size: 20px;
+    color: #3b3b3b;
+    font-weight: normal;
+}
+
+.index-panel2 .panel-header .panel-line {
+    float: left;
+    border-top: 1px solid #e5e3e3;
+    margin-top: 7px;
+    margin-left: 48px;
+    width: 200px;
+}
+
+.index-panel2 .pic-group {
+    margin-top: 130px;
+    height: 381px;
+    width: 1160px;
+}
+
+.index-panel2 .pic-group .pic-m{
+    width: 354px;
+    height: 381px;
+    float: left;
+}
+
+.index-panel2 .pic-group .pic-s{
+   float: left;
+    height: 381px;
+    width: 288px;
+}
+
+.index-panel2 .pic-group .pic-l{
+    float: left;
+}
+
+
+
+
+
+
+
+
+
